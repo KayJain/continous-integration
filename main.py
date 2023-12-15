@@ -15,7 +15,7 @@ ax.legend(title='Fruit color')
 
 plt.savefig('bars.png', bbox_inches='tight')
 
-cat = ["bored", "happy", "happy", "happy", "happy", "bored"]
+cat = ["happy", "happy", "happy", "happy", "happy", "bored"]
 dog = ["bored", "bored", "bored", "happy", "bored", "bored"]
 activity = ["combing", "drinking", "feeding", "napping", "playing", "washing"]
 
